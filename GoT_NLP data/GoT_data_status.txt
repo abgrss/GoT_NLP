@@ -1,0 +1,16 @@
+SCRAPING NOTES
+
+Acquired from: https://genius.com/albums/Game-of-thrones/Season-1-scripts
+
+S1E1: OK
+S1E2: OK 
+S1E3: OK
+S1E4: OK
+S1E5: OK
+S1E6: OK
+S1E7: OK
+S1E8: OK
+S1E9: OK
+S1E10: OK
+
+NEED TO EDIT NAMES FOR SEASON 1

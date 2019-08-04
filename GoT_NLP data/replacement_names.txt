@@ -1,0 +1,76 @@
+{('HOUND','THE HOUND', 'SANDOR CLEGANE'):'SANDOR',\
+                         ('PETYR','PETYR BAELISH','LITTLEFINGER'):'BAELISH',\
+                         'MAESTER LUWIN':'LUWIN',\
+                         ('DOLOROUD EDD', 'DOLOROUS EDD', 'DOLROUS EDD','EDDISON TOLLETT', 'EDDISON','EDDISION'):'EDD',\
+                         'KHAL DROGO':'DROGO',\
+                         'JON SNOW':'JON',\
+			 'EURION':'EURON',\
+			 'HIZDAHR ZO LORAQ':'HIZDAHR',\
+			 'PYATT PREE':'PYAT PREE',\
+                         'KRAZNYS MO NAKLOZ':'KRAZNYS',\
+                         'RATTLESHIRT':'LORD OF BONES',\
+                         'ROOSE BOLTON':'ROOSE',\
+                         ('ALLISER','ALLISTER', 'SER ALLISER','ALLISTER THORNE','ALLISER THRONE','ALLISER THORN'):'ALLISER THORNE',\
+                         ('BRINEE','BRINENNE'):'BRINENNE',\
+                         'ADDAM MARBRAND':'MARBRAND',\
+                         ('AYRA', 'ARYA STARK'):'ARYA',\
+                         ('BARRISTAN SELMY','BARRISTON', 'BARRISTAN SELMY'):'BARRISTAN',\
+                         'BENJEN STARK':'BENJEN',\
+                         'BERIC DONDARRION':'BERIC',\
+			 'BRON':'BRONN',\
+                         ("BRAN'S VOICE", 'BRANN STARK','BRAN STARK'):'BRAN',\
+                         ('CERSIE', 'CESEI', 'CERSEI BARATHEON', 'CERSEI LANNISTER'):'CERSEI',\
+                         ('DAAERIO', 'DAARIO NAHARIS', 'DARIO', 'DEANERYS TARGARIAN', 'DENERYS'):'DAARIO',\
+                         ('CATELYIN','CATEKYN', 'CATELYIN', 'CATELYN STARK'):'CATELYN',\
+                         ('DAENARYS STORMBORN','DAENERYS STORMBORN','DAENERYS TARGARYEN','DANERYS TARGARIAN','DAEYNERYS','DANAERYS', 'DANERYS', 'DANY'):'DAENERYS',\
+                         "FELLOW NIGHT'S WATCH BROTHERS":"NIGHT'S WATCH BROTHERS",\
+                         ('EDDARD STARK','EDDARK STARK','NED STARK'):'NED',\
+                         'GALBART GLOVER':'GLOVER',\
+                         ('GRAND MAESTER PYCELLE', 'MAESTER PYCELLE', 'MAESTER PYCELL','PYELLE'):'PYCELLE',\
+			 'QUAITH':'QUAITHE',\
+			 'YOHN ROYCE':'YOHN',\
+			 'SALLADOR':'SALLADHOR',\
+			 'MACE TYRELL':'MACE',\
+			 'TANSAY':'TANSY',\
+			 'QYBURNS':'QYBURN',\
+			 'RAMSEY':'RAMSAY',\
+			 'MELISDANDRE':'MELISANDRE',\
+			 'MHAEGAN':'MHAEGEN',\
+			 'MOUNTIAN':'MOUNTAIN',\
+			 'MOSADOR':'MOSSADOR',\
+                         ('TYRIOM','TYRION LANNISTER', 'TYRON'):'TYRION',\
+                         ('TYWEN','TYWIN LANNISTER'):'TYWIN',\
+                         'VISERYS TARGARYEN':'VISERYS',\
+                         'THEON GREYJOY':'THEON',\
+                         'SYRIO FOREL':'SYRIO',\
+                         ('SAMWEL TARLY', 'SAMWELL TARLY','SAM'):'SAMWELL',\
+                         'SANSA STARK':'SANSA',\
+                         'ROBERT BARATHEON':'ROBERT',\
+                         'LORAS TYRELL':'LORAS',\
+                         'LYSA ARRYN':'LYSA',\
+                         'MAESTER AEMON':'AEMON',\
+                         'LOMMY GREENHANDS':'LOMMY',\
+			 'JORY CASSEL':'JORY',\
+			 'KARL TANNER':'KARL',\
+			 ('OLEANNA','LADY OLENNA'):'OLENNA',\
+			 'LADYC RANE':'LADY CRANE',\
+			 'LOLLYS STOKEWORTH':'LOLLYS',\
+			 'LYANNA MORMONT':'LYANNA',\
+                         ('MERYN TRANT', 'MARYN TRANT'):'MERYN',\
+                         ('SER JORAH','JORAH MORMONT'):'JORAH',\
+                         'KEVAN LANNISTER':'KEVAN',\
+                         ('JANOS SLYNT', 'JANOS SLUNT'):'JANOS',\
+                         'JEOR MORMONT':'JEOR',\
+                         ('KING JOFFREY','JOFFREY BARATHEON'):'JOFFREY',\
+                         ('JAIME LANNISTER','JAMIE LANNISTER'):'JAIME',\
+                         'ILLYRIO MOPATIS':'ILLYRIO',\
+                         'LANCEL LANNISTER':'LANCEL',\
+                         'NAN':'OLD NAN',\
+                         ('Othell Yarwyck', 'OTHELL YARWICK', 'YARWICK'):'YARWYCK',\
+                         'RENLY BARATHEON':'RENLY',\
+                         'RHAKHARO':'RAKHARO',\
+                         ('RODRIK','RODRICK CASSEL','RODRIK CASSAL'):'RODRIK CASSEL',\
+                         'ROBIN ARRYN':'ROBIN',\
+                         'ROBB STARK':'ROBB',\
+                         'RICKON STARK':'RICKON',\
+                        }
